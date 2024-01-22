@@ -26,7 +26,7 @@ Welcome to the PAC-MAN Assembly Game, a classic arcade adventure brought to life
 ## Acknowledgments
 
 - Special thanks to Asfandyar Sabri for mentorship in assembly language.
-- Gratitude to Saffi Muhammad Hashir for invaluable assistance.
+
 
 ## Contributing
 
