@@ -23,6 +23,13 @@ Welcome to the PAC-MAN Assembly Game, a classic arcade adventure brought to life
 - Use arrow keys for PAC-MAN movement.
 - Navigate through the maze, eating pellets, and avoiding ghosts.
 
+  ## Project Demo
+
+![Demo Video](pacman.mp4)
+
+[Watch the full video here](https://youtu.be/c1bkdg3O0Tc)
+
+
 ## Acknowledgments
 
 - Special thanks to Asfandyar Sabri for mentorship in assembly language.
